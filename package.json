@@ -1,7 +1,7 @@
 {
   "name": "stanislavpetrov-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Stanislav Petrov",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
